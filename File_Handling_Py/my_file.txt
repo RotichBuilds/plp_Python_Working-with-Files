@@ -1,0 +1,6 @@
+Line 1: Going to school. 
+Line 2: 1079. 
+Line 3: My address is 00100 - 479 Nairobi. 
+Line 4: Cat and dog are domestic animals.
+Line 5: Weather is good.
+Line 6: Good bye. 
